@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "4.13.4"
-},
+    "express": "4.13.4",
+    "pg": "^7.11.0"
+  },
   "author": "bryan",
   "license": "ISC"
 }
